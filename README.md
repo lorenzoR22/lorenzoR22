@@ -36,6 +36,31 @@ Hola, soy Lorenzo Ruggeri!
 ---
 
 <h2 align="center">
+  ⚒️ Proyectos destacados:
+</h2>
+
+<div align="center">
+  <p>
+    <a href="https://github.com/lorenzoR22/Academia-microservicios.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzoR22&repo=Academia-microservicios&title_color=ffffff&text_color=dddddd&bg_color=0d1117&icon_color=6DB33F" alt="Academia microservicios" />
+    </a>
+    <a href="https://github.com/lorenzoR22/E-commerce.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzoR22&repo=E-commerce&title_color=ffffff&text_color=dddddd&bg_color=0d1117&icon_color=6DB33F" alt="E-commerce" />
+    </a>
+    <a href="https://github.com/lorenzoR22/comerceTrack.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzoR22&repo=comerceTrack&title_color=ffffff&text_color=dddddd&bg_color=0d1117&icon_color=6DB33F" alt="comerceTrack" />
+    </a>
+    <a href="https://github.com/lorenzoR22/auth-api.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzoR22&repo=auth-api&title_color=ffffff&text_color=dddddd&bg_color=0d1117&icon_color=6DB33F" />
+    </a>
+    <a href="https://github.com/nericarrera/NO-CODE---Grupo.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nericarrera&repo=NO-CODE---Grupo&title_color=ffffff&text_color=dddddd&bg_color=0d1117&icon_color=6DB33F" alt="NO-CODE Grupo" />
+    </a>
+  </p>
+</div>
+
+
+<h2 align="center">
   🛠️ Tecnologías y herramientas:
 </h2>
 
@@ -98,33 +123,6 @@ Hola, soy Lorenzo Ruggeri!
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
----
-
-<h2 align="center">
-  ⚒️ Proyectos destacados:
-</h2>
-
-<div align="center">
-  <p>
-    <a href="https://github.com/lorenzoR22/Academia-microservicios.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzoR22&repo=Academia-microservicios&title_color=ffffff&text_color=dddddd&bg_color=0d1117&icon_color=6DB33F" alt="Academia microservicios" />
-    </a>
-    <a href="https://github.com/lorenzoR22/E-commerce.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzoR22&repo=E-commerce&title_color=ffffff&text_color=dddddd&bg_color=0d1117&icon_color=6DB33F" alt="E-commerce" />
-    </a>
-    <a href="https://github.com/lorenzoR22/comerceTrack.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzoR22&repo=comerceTrack&title_color=ffffff&text_color=dddddd&bg_color=0d1117&icon_color=6DB33F" alt="comerceTrack" />
-    </a>
-    <a href="https://github.com/lorenzoR22/auth-api.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzoR22&repo=auth-api&title_color=ffffff&text_color=dddddd&bg_color=0d1117&icon_color=6DB33F" />
-    </a>
-    <a href="https://github.com/nericarrera/NO-CODE---Grupo.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nericarrera&repo=NO-CODE---Grupo&title_color=ffffff&text_color=dddddd&bg_color=0d1117&icon_color=6DB33F" alt="NO-CODE Grupo" />
-    </a>
-  </p>
-</div>
-
 
 ---
 
