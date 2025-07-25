@@ -126,5 +126,5 @@ Hola, soy Lorenzo Ruggeri!
 
 ---
 
-> *"La simplicidad es la máxima sofisticación." – Leonardo da Vinci*
+> *"El único modo de hacer un gran trabajo es amar lo que haces." – Steve Jobs*
 
