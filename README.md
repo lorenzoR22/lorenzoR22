@@ -122,6 +122,13 @@ Hola, soy Lorenzo Ruggeri!
   <a href="https://github.com/">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://www.mercadopago.com.ar/developers/es">
+  <img alt="Mercado Pago API" src="https://img.shields.io/badge/Mercado_Pago_API-009ee3?style=for-the-badge&logo=mercadopago&logoColor=white"/>
+</a>
+
+<a href="https://docs.gemini.com/">
+  <img alt="Gemini API" src="https://img.shields.io/badge/GeminiAI_API-0a2f61?style=for-the-badge&logo=gemini&logoColor=white"/>
+</a>
 </p>
 
 ---
