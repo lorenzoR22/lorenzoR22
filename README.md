@@ -41,11 +41,11 @@ Hola, soy Lorenzo Ruggeri!
 
 <div align="center">
   <p>
+    <a href="https://github.com/Equipo-22/No-country-team.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Equipo-22&repo=No-country-team&title_color=ffffff&text_color=dddddd&bg_color=0d1117&icon_color=6DB33F" alt="Medihub" />
+    </a>
     <a href="https://github.com/lorenzoR22/Academia-microservicios.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzoR22&repo=Academia-microservicios&title_color=ffffff&text_color=dddddd&bg_color=0d1117&icon_color=6DB33F" alt="Academia microservicios" />
-    </a>
-    <a href="https://github.com/lorenzoR22/E-commerce.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzoR22&repo=E-commerce&title_color=ffffff&text_color=dddddd&bg_color=0d1117&icon_color=6DB33F" alt="E-commerce" />
     </a>
     <a href="https://github.com/lorenzoR22/comerceTrack.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzoR22&repo=comerceTrack&title_color=ffffff&text_color=dddddd&bg_color=0d1117&icon_color=6DB33F" alt="comerceTrack" />
@@ -53,8 +53,8 @@ Hola, soy Lorenzo Ruggeri!
     <a href="https://github.com/lorenzoR22/auth-api.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzoR22&repo=auth-api&title_color=ffffff&text_color=dddddd&bg_color=0d1117&icon_color=6DB33F" />
     </a>
-    <a href="https://github.com/nericarrera/NO-CODE---Grupo.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nericarrera&repo=NO-CODE---Grupo&title_color=ffffff&text_color=dddddd&bg_color=0d1117&icon_color=6DB33F" alt="NO-CODE Grupo" />
+    <a href="https://github.com/lorenzoR22/E-commerce.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzoR22&repo=E-commerce&title_color=ffffff&text_color=dddddd&bg_color=0d1117&icon_color=6DB33F" alt="E-commerce" />
     </a>
   </p>
 </div>
@@ -110,9 +110,6 @@ Hola, soy Lorenzo Ruggeri!
   <a href="https://maven.apache.org/">
     <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
   </a>
-  <a href="https://tableplus.com/">
-    <img alt="TablePlus" src="https://img.shields.io/badge/TablePlus-F48015?style=for-the-badge&logo=tableplus&logoColor=white"/>
-  </a>
   <a href="https://git-scm.com/">
     <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   </a>
@@ -122,13 +119,6 @@ Hola, soy Lorenzo Ruggeri!
   <a href="https://github.com/">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.mercadopago.com.ar/developers/es">
-  <img alt="Mercado Pago API" src="https://img.shields.io/badge/Mercado_Pago_API-009ee3?style=for-the-badge&logo=mercadopago&logoColor=white"/>
-</a>
-
-<a href="https://docs.gemini.com/">
-  <img alt="Gemini API" src="https://img.shields.io/badge/GeminiAI_API-0a2f61?style=for-the-badge&logo=gemini&logoColor=white"/>
-</a>
 </p>
 
 ---
