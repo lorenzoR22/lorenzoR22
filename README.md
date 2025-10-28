@@ -41,23 +41,39 @@ Hola, soy Lorenzo Ruggeri!
 
 <div align="center">
   <p>
-    <a href="https://github.com/Equipo-22/No-country-team.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Equipo-22&repo=No-country-team&title_color=ffffff&text_color=dddddd&bg_color=0d1117&icon_color=6DB33F" alt="Medihub" />
+    <a href="https://github.com/Equipo-22/No-country-team">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Equipo-22&repo=No-country-team&title_color=6DB33F&text_color=FFFFFF&bg_color=0d1117&icon_color=6DB33F" 
+        alt="No-country-team" 
+      />
     </a>
-    <a href="https://github.com/lorenzoR22/Academia-microservicios.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzoR22&repo=Academia-microservicios&title_color=ffffff&text_color=dddddd&bg_color=0d1117&icon_color=6DB33F" alt="Academia microservicios" />
+    <a href="https://github.com/lorenzoR22/Academia-microservicios">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzoR22&repo=Academia-microservicios&title_color=6DB33F&text_color=FFFFFF&bg_color=0d1117&icon_color=6DB33F" 
+        alt="Academia microservicios" 
+      />
     </a>
-    <a href="https://github.com/lorenzoR22/comerceTrack.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzoR22&repo=comerceTrack&title_color=ffffff&text_color=dddddd&bg_color=0d1117&icon_color=6DB33F" alt="comerceTrack" />
+    <a href="https://github.com/lorenzoR22/comerceTrack">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzoR22&repo=comerceTrack&title_color=6DB33F&text_color=FFFFFF&bg_color=0d1117&icon_color=6DB33F" 
+        alt="comerceTrack" 
+      />
     </a>
-    <a href="https://github.com/lorenzoR22/auth-api.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzoR22&repo=auth-api&title_color=ffffff&text_color=dddddd&bg_color=0d1117&icon_color=6DB33F" />
+    <a href="https://github.com/lorenzoR22/auth-api">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzoR22&repo=auth-api&title_color=6DB33F&text_color=FFFFFF&bg_color=0d1117&icon_color=6DB33F" 
+        alt="auth-api" 
+      />
     </a>
-    <a href="https://github.com/lorenzoR22/E-commerce.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzoR22&repo=E-commerce&title_color=ffffff&text_color=dddddd&bg_color=0d1117&icon_color=6DB33F" alt="E-commerce" />
+    <a href="https://github.com/lorenzoR22/E-commerce">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzoR22&repo=E-commerce&title_color=6DB33F&text_color=FFFFFF&bg_color=0d1117&icon_color=6DB33F" 
+        alt="E-commerce" 
+      />
     </a>
   </p>
 </div>
+
 
 
 <h2 align="center">
