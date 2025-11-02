@@ -41,10 +41,10 @@ Hola, soy Lorenzo Ruggeri!
 
 <div align="center">
   <p>
-    <a href="https://github.com/Equipo-22/No-country-team">
+    <a href="https://github.com/Equipo-22/Medihub">
       <img 
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Equipo-22&repo=No-country-team&title_color=6DB33F&text_color=FFFFFF&bg_color=0d1117&icon_color=6DB33F" 
-        alt="No-country-team" 
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Equipo-22&repo=Medihub&title_color=6DB33F&text_color=FFFFFF&bg_color=0d1117&icon_color=6DB33F" 
+        alt="Medihub" 
       />
     </a>
     <a href="https://github.com/lorenzoR22/Academia-microservicios">
