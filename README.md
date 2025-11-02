@@ -55,7 +55,7 @@ Hola, soy Lorenzo Ruggeri!
     </a>
     <a href="https://github.com/lorenzoR22/comerceTrack">
       <img 
-        src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzoR22&repo=comerceTrack&title_color=6DB33F&text_color=FFFFFF&bg_color=0d1117&icon_color=6DB33F" 
+        src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzoR22&repo=ComerceTrack&title_color=6DB33F&text_color=FFFFFF&bg_color=0d1117&icon_color=6DB33F" 
         alt="comerceTrack" 
       />
     </a>
