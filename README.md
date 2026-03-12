@@ -43,7 +43,7 @@ Hola, soy Lorenzo Ruggeri!
   <p>
     <a href="https://github.com/Equipo-22/Medihub">
       <img 
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Equipo-22&repo=Medihub&title_color=6DB33F&text_color=FFFFFF&bg_color=0d1117&icon_color=6DB33F" 
+        src="https://github-readme-stats.vercel.app/api/pin/?username=nc-proyectos&repo=Medihub&title_color=6DB33F&text_color=FFFFFF&bg_color=0d1117&icon_color=6DB33F" 
         alt="Medihub" 
       />
     </a>
