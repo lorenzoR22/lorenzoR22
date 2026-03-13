@@ -16,7 +16,7 @@ Hola, soy Lorenzo Ruggeri!
 <p>💻 Soy <strong>Desarrollador Backend Java</strong> de Mar del Plata, Argentina.</p>
 <p>🌱 Me especializo en el ecosistema <strong>Spring</strong>, creando <strong>APIs REST</strong> seguras y escalables, trabajando con <strong>microservicios</strong>.</p>
 <p>🎓 Estudiante de <strong>Programación</strong> en UTN y a la par siendo <strong>autodidacta</strong>.</p>
-<p>🔥 Apasionado por el <strong>backend</strong>, las <strong>buenas prácticas</strong> y el diseño limpio de software.</p>
+<p>🔥 Realmente apasionado por el <strong>backend</strong> y tengo como sueño poder vivir de esto.</p>
 </div>
 
 <br/>
