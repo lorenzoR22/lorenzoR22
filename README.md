@@ -40,41 +40,35 @@ Hola, soy Lorenzo Ruggeri!
 </h2>
 
 <div align="center">
-  <p>
-    <a href="https://github.com/Equipo-22/Medihub">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/pin/?username=nc-proyectos&repo=Medihub&title_color=6DB33F&text_color=FFFFFF&bg_color=0d1117&icon_color=6DB33F&show_owner=true&cache_seconds=1800&v=1" 
-        alt="Medihub" 
-      />
-    </a>
-    <a href="https://github.com/lorenzoR22/Academia-microservicios">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzoR22&repo=Academia-microservicios&title_color=6DB33F&text_color=FFFFFF&bg_color=0d1117&icon_color=6DB33F&show_owner=true&cache_seconds=1800&v=1" 
-        alt="Academia microservicios" 
-      />
-    </a>
-    <a href="https://github.com/lorenzoR22/comerceTrack">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzoR22&repo=ComerceTrack&title_color=6DB33F&text_color=FFFFFF&bg_color=0d1117&icon_color=6DB33F&show_owner=true&cache_seconds=1800&v=1" 
-        alt="comerceTrack" 
-      />
-    </a>
-    <a href="https://github.com/lorenzoR22/auth-api">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzoR22&repo=auth-api&title_color=6DB33F&text_color=FFFFFF&bg_color=0d1117&icon_color=6DB33F&show_owner=true&cache_seconds=1800&v=1" 
-        alt="auth-api" 
-      />
-    </a>
-    <a href="https://github.com/lorenzoR22/E-commerce">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzoR22&repo=E-commerce&title_color=6DB33F&text_color=FFFFFF&bg_color=0d1117&icon_color=6DB33F&show_owner=true&cache_seconds=1800&v=1" 
-        alt="E-commerce" 
-      />
-    </a>
-  </p>
+
+<table>
+  <tr>
+    <th>Proyecto</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Equipo-22/Medihub"><b>Medihub</b></a></td>
+    <td>Gestión médica con citas, teleasistencia e integración con historiales clínicos (EHR).</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lorenzoR22/Academia-microservicios"><b>Academia Microservicios</b></a></td>
+    <td>Plataforma educativa con microservicios, Kafka, Keycloak y tolerancia a fallos.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lorenzoR22/comerceTrack"><b>ComerceTrack</b></a></td>
+    <td>Gestión de productos y facturación con Spring Batch y generación de PDFs.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lorenzoR22/auth-api"><b>Auth API</b></a></td>
+    <td>API REST con login, registro y autenticación usando JWT y email.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lorenzoR22/E-commerce"><b>E-commerce</b></a></td>
+    <td>Backend modular con carrito, pagos (Mercado Pago) y notificación por email.</td>
+  </tr>
+</table>
+
 </div>
-
-
 
 <h2 align="center">
   🛠️ Tecnologías y herramientas:
