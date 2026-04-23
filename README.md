@@ -50,6 +50,10 @@ Hola, soy Lorenzo Ruggeri!
     <td><a href="https://github.com/Equipo-22/Medihub"><b>Medihub</b></a></td>
     <td>Gestión médica con citas, teleasistencia e integración con historiales clínicos (EHR).</td>
   </tr>
+   <tr>
+    <td><a href="https://github.com/No-Country-simulation/S03-26-Equipo08-WebApp"><b>Testimonial CMS</b></a></td>
+    <td>Gestión y publicación de testimonios y casos de éxito para sitios web e instituciones.</td>
+  </tr>
   <tr>
     <td><a href="https://github.com/lorenzoR22/Academia-microservicios"><b>Academia Microservicios</b></a></td>
     <td>Plataforma educativa con microservicios, Kafka, Keycloak y tolerancia a fallos.</td>
