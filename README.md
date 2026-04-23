@@ -51,7 +51,7 @@ Hola, soy Lorenzo Ruggeri!
     <td>Gestión médica con citas, teleasistencia e integración con historiales clínicos (EHR).</td>
   </tr>
    <tr>
-    <td><a href="https://github.com/No-Country-simulation/S03-26-Equipo08-WebApp"><b>Testimonial CMS</b></a></td>
+    <td><a href="https://github.com/No-Country-simulation/Testimonial-Hub"><b>Testimonial CMS</b></a></td>
     <td>Gestión y publicación de testimonios y casos de éxito para sitios web e instituciones.</td>
   </tr>
   <tr>
